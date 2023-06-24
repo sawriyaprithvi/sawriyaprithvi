@@ -9,12 +9,19 @@ I am a beginner programmer eager to learn and grow in the field of coding. I hav
 
 ## Projects
 Project 1: https://github.com/sawriyaprithvi/Leap-Year-Checker
+
 Project 2: https://github.com/sawriyaprithvi/Lowercase-Checker
+
 Project 3: https://github.com/sawriyaprithvi/Area-Of-Rectangle-Calculator
+
 Project 4: https://github.com/sawriyaprithvi/Sum-Calculator
+
 Project 5: https://github.com/sawriyaprithvi/Odd-Even-Checker
+
 Project 6: https://github.com/sawriyaprithvi/Multiplication-Table-Generator
+
 Project 7: https://github.com/sawriyaprithvi/Volume-Of-Circle-Calculator
+
 Project 8: https://github.com/sawriyaprithvi/Simple-Interest-Calculator
 
 Please feel free to explore these projects and provide any feedback or suggestions. I'm always eager to learn and improve!
